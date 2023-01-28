@@ -1,2 +1,2 @@
 # precorso-html-basics
-Primo esercizio HTML Basics 
+Esercizi HTML Basics 
